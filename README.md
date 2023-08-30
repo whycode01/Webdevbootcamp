@@ -1,7 +1,7 @@
 # Webdevbootcamp
 
 This project is a part of the front-end section of a web-dev course I took during the summer break.
-Here, in this project, i have used HTML and CSS to create a dating site for dogs which was the mentioned project in the course . 
+Here, in this project, I have used HTML, CSS, and bootstrap to create a dating site for dogs which was the mentioned project in the course. 
 <br>
 <img width="944" alt="image" src="https://github.com/whycode01/Webdevbootcamp/assets/123396317/8d1788d7-cfc8-462d-b65c-79b89e6ef0df">
 <br>
